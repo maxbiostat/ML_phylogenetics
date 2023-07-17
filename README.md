@@ -6,4 +6,7 @@ These notes try to collect material on Machine Learning applications to phylogen
 - [Computing tree probabilities](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/sbn.md);
 - [Variational inference](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/vi.md).
 
+
+A [bib file](https://github.com/maxbiostat/ML_phylogenetics/blob/main/resources/ML_phylo.bib) with the references is also available. 
+
 If you need to brush off on your knowledge of Statistical Phylogenetics, [these](https://github.com/maxbiostat/Statistical_Phylogenetics_resources) notes might be a good starting point. 
