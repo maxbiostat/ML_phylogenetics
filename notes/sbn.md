@@ -21,7 +21,7 @@ Consider the tree $T$:
 ![A leaf-labelled tree Fig 1 in Zhang & Matsen)](image-1.png)
 
 We have that
-$$\pi(T) = \operatorname{Pr}(C_2, C_3, C_4, C_5, C_6, C_7).$$
+$$\pi(T) = \textrm{Pr}(C_2, C_3, C_4, C_5, C_6, C_7).$$
 The CCD decomposition is
 $$
 p_{\textrm{CCD}}(T) = \pi_{1}(C_2, C_3) \pi_{2}(C_4, C_5 \mid C_2)\pi_{3}(C_6 \mid C_5) \pi_{4}(C_7 \mid 
