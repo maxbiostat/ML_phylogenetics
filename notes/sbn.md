@@ -10,11 +10,6 @@ The resulting conditional clade distributions (CCD) forgo computing the normalis
   - noticed that the CCD  underestimated the posterior for sub-peaks and overestimated the posterior between peaks.
 - Zhang, C., & Matsen IV, F. A. (2018). [Generalizing tree probability estimation via Bayesian networks](https://papers.nips.cc/paper_files/paper/2018/file/b137fdd1f79d56c7edf3365fea7520f2-Paper.pdf). Advances in neural information processing systems, 31.
   - Introduced the idea of subsplit Bayesian networks (SBN), which extend the CCD with a richer representation of the distribution on trees.
-- Zhang, C. (2020). [Improved variational Bayesian phylogenetic inference with normalizing flows](https://proceedings.neurips.cc/paper/2020/file/d96409bf894217686ba124d7356686c9-Paper.pdf). Advances in neural information processing systems, 33, 18760-18771.
-- Karcher, M., Zhang, C., & Matsen IV, F. A. (2021). [Variational Bayesian Supertrees](https://arxiv.org/abs/2104.11191). arXiv preprint arXiv:2104.11191.
-- Zhang, C., & Matsen IV, F. A. (2022). [A variational approach to bayesian phylogenetic inference](https://arxiv.org/abs/2204.07747). arXiv preprint arXiv:2204.07747.
-- Zhang, C. (2023). [Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks](https://arxiv.org/abs/2302.08840). arXiv preprint arXiv:2302.08840.
-
 
 ## Software
 
