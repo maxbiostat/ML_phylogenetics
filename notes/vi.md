@@ -5,3 +5,4 @@
 - Ki, C., & Terhorst, J. (2022). [Variational phylodynamic inference using pandemic-scale data](https://doi.org/10.1093/molbev/msac154). Molecular Biology and Evolution, 39(8), msac154.
 - Zhang, C., & Matsen IV, F. A. (2022). [A variational approach to bayesian phylogenetic inference](https://arxiv.org/abs/2204.07747). arXiv preprint arXiv:2204.07747.
 - Zhang, C. (2023). [Learnable Topological Features for Phylogenetic Inference via Graph Neural Networks](https://arxiv.org/abs/2302.08840). arXiv preprint arXiv:2302.08840.
+- Remita, A. M., Vitae, G., & Diallo, A. B. (2023). [Prior Density Learning in Variational Bayesian Phylogenetic Parameters Inference](https://arxiv.org/abs/2302.02522). In RECOMB International Workshop on Comparative Genomics (pp. 112-130). Cham: Springer Nature Switzerland.
