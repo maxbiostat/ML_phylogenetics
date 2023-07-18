@@ -4,7 +4,7 @@ These notes try to collect material on Machine Learning applications to phylogen
 
 - [General ML methodology](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/general_ML.md);
 - [Computing tree probabilities](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/sbn.md);
-- [Variational inference](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/vi.md).
+- [Variational phylogenetic/phylodynamic inference](https://github.com/maxbiostat/ML_phylogenetics/blob/main/notes/vi.md).
 
 
 A .bib [file](https://github.com/maxbiostat/ML_phylogenetics/blob/main/resources/ML_phylo.bib) with the references is also available. 
